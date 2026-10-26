@@ -30,3 +30,9 @@ breakables:
 
 corrupted_broker:
   opens_at_match_minutes: [15, 25]
+
+zipline_boost:
+  cooldown_seconds: 180
+
+rejuvenator_crystal:
+  hits_before_destroyed: 2
